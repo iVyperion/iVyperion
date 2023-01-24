@@ -1,6 +1,10 @@
-### Hi there 👋
+# iVyperion
 
-<!--
+**`self-taught developer`**
+
+I'm a student studying Electronics-ICT at Odisee university in Ghent. I'm very passionate about programming and I want to have experience in many different fields of programming. Most of my programming experience comes from experimenting with C#. 
+
+
 **iVyperion/iVyperion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
