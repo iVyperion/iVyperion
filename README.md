@@ -25,6 +25,7 @@ I'm a student studying Electronics-ICT at Odisee university in Ghent. I'm very p
 #
 
 ### Stats
-![iVyperion's GitHuv stats](https://github-readme-stats.vercel.app/api?username=iVyperion&show_icons=true&theme=gruvbox)
-
+![iVyperion's GitHub stats](https://github-readme-stats.vercel.app/api?username=iVyperion&show_icons=true&theme=gruvbox)
+![iVyperion's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=iVyperion&theme=dark&hide_border=false)
+![iVyperion's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iVyperion&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 #
