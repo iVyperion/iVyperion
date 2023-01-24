@@ -1,8 +1,8 @@
 # iVyperion
 
-**`developer`**
+**`student`**
 
-I'm a student studying Electronics-ICT at Odisee university in Ghent. I'm very passionate about programming and I'm striving to have experience in many different fields of programming. Most of my programming experience comes from experimenting with C#.
+Hi 👋. I'm an 18 years old student from Belgium. I study Electronics-ICT at Odisee University in Ghent. I'm very passionate about programming and I'm striving to have experience in many different fields of programming. Most of my programming experience comes from experimenting with C# and lately I've been programming and working with nodejs, html, css, mysql, c++.
 
 
 ### Languages and Tools
