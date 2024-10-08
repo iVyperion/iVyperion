@@ -2,7 +2,7 @@
 
 **`student`**
 
-Hi 👋. I'm an 19 year old student from Belgium. I study Electronics-ICT at Odisee University in Ghent. I'm very passionate about programming and I'm trying to have experience in many different fields of programming. Most of my programming experience comes from experimenting with C# and lately I've been programming and working with nodejs, html, css, mysql, c++.
+Hi 👋. I'm an 20 year old student from Belgium. I study Electronics-ICT at Odisee University in Ghent. I'm very passionate about programming and I have experience in many different fields of programming. Most of my programming experience comes from experimenting with C#  when I was young and lately I've been programming and working with React Native, Vue.js, Laravel.
 
 
 ### Languages and Tools
