@@ -28,4 +28,7 @@ Hi 👋. I'm an 20 year old student from Belgium. I study Electronics-ICT at Odi
 ![iVyperion's GitHub stats](https://github-readme-stats.vercel.app/api?username=iVyperion&show_icons=true&theme=gruvbox)
 ![iVyperion's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=iVyperion&theme=gruvbox&hide_border=false)
 ![iVyperion's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iVyperion&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+These stats don't respresent my activity as i'm currently using my schools gitlab account: [Click here](https://gitlab.com/kwintendd)
+I also have wakatime so i can gather all my programming stats in 1 place: [Click here](https://wakatime.com/@iVyperion)
 #
